@@ -49,7 +49,7 @@
 >![点击开始抓取](https://github.com/SoccerHan/web_scraper_lagou/blob/master/点击scraper.jpg)
 
 >step15 静静等待，chrome会发生响应，然后进行网页抓取，此时不要关闭浏览器。待浏览器提醒完成后，点击：*export data as CSV*
->![导出CSV](https://github.com/SoccerHan/web_scraper_lagou/blob/master/点击scraper.jpg)
+>![导出CSV](https://github.com/SoccerHan/web_scraper_lagou/blob/master/导出CSV.jpg)
 
 >step16 done，恭喜你，可以进行岗位能力的萃取了。如有疑问，请微信：SoccerHan
 
